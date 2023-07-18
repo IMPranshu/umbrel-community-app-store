@@ -1,0 +1,11 @@
+version: "3.7"
+
+services:
+  app_proxy:
+    environment:
+      APP_HOST: umbrella-unique-set_server_1
+      APP_PORT: 80
+
+  server:
+    image: impranshu/unique-game:v1@sha256:a1347e044dba208489af840f9bf4191b71cd28c5b9ec9ceca1c9a722da319a3d
+    user: "1000:1000"

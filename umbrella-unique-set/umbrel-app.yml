@@ -1,0 +1,25 @@
+manifestVersion: 1
+id: umbrella-unique-set
+name: Unique Set
+tagline: A JavaScript game inspired by the card game Set.
+icon: https://svgshare.com/i/vRp.svg
+category: files
+version: "1"
+port: 4000
+description: >-
+  Test your knowledge by scoring the highest point.
+
+developer: Pranshu Agrawal
+website: https://pkknowsnothing.com/
+submitter: Pranshu Agrawal
+submission:
+repo: https://github.com/IMPranshu/unique-game
+support: https://github.com/IMPranshu/unique-game
+gallery:
+  - https://i.imgur.com/MOE7yf5.png
+  - https://i.imgur.com/myefN82.png
+  - https://i.imgur.com/vxuhH8U.png
+dependencies: []
+path: ""
+defaultUsername: ""
+defaultPassword: ""
