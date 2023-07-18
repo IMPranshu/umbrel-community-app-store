@@ -8,4 +8,5 @@ services:
 
   server:
     image: impranshu/unique-game:v1@sha256:a1347e044dba208489af840f9bf4191b71cd28c5b9ec9ceca1c9a722da319a3d
-    user: "1000:1000"
+    volumes:
+      - ${APP_DATA_DIR}/data/src:/app/src
