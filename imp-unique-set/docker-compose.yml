@@ -3,7 +3,7 @@ version: "3.7"
 services:
   app_proxy:
     environment:
-      APP_HOST: umbrella-unique-set_server_1
+      APP_HOST: imp-unique-set_server_1
       APP_PORT: 80
 
   server:
