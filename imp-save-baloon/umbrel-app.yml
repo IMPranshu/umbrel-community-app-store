@@ -1,0 +1,25 @@
+manifestVersion: 1
+id: imp-save-baloon
+name: Unique Set
+tagline: Save the baloon beofre the fuel runs out.
+icon: https://svgshare.com/i/vUc.svg
+category: files
+version: "1"
+port: 4001
+description: >-
+  Control the baloons and escape the forest.
+
+developer: Pranshu Agrawal
+website: https://pkknowsnothing.com/
+submitter: Pranshu Agrawal
+submission:
+repo: https://github.com/IMPranshu/save-the-baloon
+support: https://github.com/IMPranshu/save-the-baloon
+gallery:
+  - https://i.imgur.com/Ky4dFc8.png
+  - https://i.imgur.com/eaVKk8t.png
+  - https://i.imgur.com/CMpCr7B.png
+dependencies: []
+path: ""
+defaultUsername: ""
+defaultPassword: ""
