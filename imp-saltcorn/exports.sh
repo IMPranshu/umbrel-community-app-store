@@ -1,0 +1,5 @@
+export PGDATABASE=saltcorn
+export PGUSER=postgres
+export PGPASSWORD=postgres
+export DOMAIN=localhost
+export SALTCORN_SECRET=supersecretsaltcornsalt

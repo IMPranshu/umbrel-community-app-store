@@ -1,0 +1,50 @@
+manifestVersion: 1
+id: imp-speedtest-tracker
+category: Development
+name: SpeedTest
+version: "1.12.2"
+tagline: Automatically run an Internet speedtest every hour
+description: >-
+  This program runs a speedtest check every hour and graphs the results.
+
+
+  It uses Ookla's Speedtest cli to get the Internet speedtest data.
+
+
+  Features:
+
+
+  - Automatically run a speedtest every hour
+
+
+  - Graph of previous speedtests going back x days
+
+
+  - Backup/restore data in JSON/CSV format
+
+
+  - Slack/Discord/Telegram notifications
+
+
+  - healthchecks.io integration
+
+
+  - Organizr integration
+
+
+  Disclaimer: You have accepted Ookla's EULA and privacy agreements if you install this app.
+developer: Henry Whitaker
+website: https://github.com/henrywhitaker3/Speedtest-Tracker
+dependencies: []
+repo: https://github.com/henrywhitaker3/Speedtest-Tracker
+support: https://github.com/henrywhitaker3/Speedtest-Tracker
+port: 8765
+gallery:
+  - 1.jpg
+  - 2.jpg
+  - 3.jpg
+path: ""
+defaultUsername: ""
+defaultPassword: ""
+submitter: Pranshu Agrawal
+submission:

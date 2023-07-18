@@ -1,0 +1,17 @@
+version: "3.7"
+
+services:
+  app_proxy:
+    environment:
+      APP_HOST: imp-speedtest-tracker_server_1
+      APP_PORT: 80
+
+  server:
+    image: impranshu/speedtest:v1.12@sha256:e34b948351e5b46d3ee3a76669fccc253e614eb525a81d5cc175dd892a9f6db7
+    volumes:
+      - ${APP_DATA_DIR}/data:/config
+    environment:
+      - PUID=1000
+      - PGID=1000
+      - OOKLA_EULA_GDPR=true
+    restart: unless-stopped

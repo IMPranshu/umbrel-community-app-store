@@ -1,0 +1,16 @@
+version: "3.7"
+
+services:
+  app_proxy:
+    environment:
+      APP_HOST: imp-pylon
+      APP_PORT: 3131
+
+  server:
+    image: lscr.io/linuxserver/pylon:2.8.0@sha256:cb417f0779a8933f0ccb56434e473d89f875e9e80d5974bf2325eaf28cb48dff
+    container_name: pylon
+    environment:
+      - GITURL=https://github.com/getumbrel/umbrel-apps.git
+    volumes:
+      - ${APP_DATA_DIR}/data/code:/code
+    restart: on-failure

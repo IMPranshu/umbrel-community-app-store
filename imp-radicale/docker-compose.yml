@@ -1,0 +1,13 @@
+version: "3.7"
+
+services:
+  app_proxy:
+    environment:
+      APP_HOST: imp-radicale
+      APP_PORT: 5232
+  server:
+    image: cupcakearmy/radicale:1
+    container_name: radicale
+    restart: unless-stopped
+    volumes:
+      - ${APP_DATA_DIR}/data:/data

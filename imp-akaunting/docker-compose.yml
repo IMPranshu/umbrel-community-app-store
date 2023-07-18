@@ -1,0 +1,15 @@
+version: "3.7"
+
+
+services:
+  akaunting:
+    image: kuralabs/docker-akaunting:latest
+    restart: on-failure
+    ports:
+      - 8780:8080
+    environment:
+      MYSQL_ROOT_PASSWORD: v!nh$u%io8rh&fjnnn!@jh@olkjQKE #Change this password to something at least as long and complicated
+    volumes:
+      - /srv/akaunting/mysql:/var/lib/mysql
+      - /srv/akaunting/logs:/var/log
+      - /srv/akaunting/config:/var/www/akaunting/config

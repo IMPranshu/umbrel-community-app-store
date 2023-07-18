@@ -1,0 +1,11 @@
+version: '3.7'
+
+services:
+  server:
+    image: tak786/trango-self-hosted
+    ports:
+      - 8555:80
+      - 9143:443
+    environment:
+      - PUID=1000
+    restart: on-failure

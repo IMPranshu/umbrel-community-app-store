@@ -1,0 +1,14 @@
+version: "3.7"
+
+services:
+  app_proxy:
+    environment:
+      APP_HOST: imp-dozzle
+      APP_PORT: 8080
+
+  server:
+    container_name: dozzle
+    image: amir20/dozzle:latest
+    restart: on-failure
+    volumes:
+      - ${UMBREL_ROOT}/data:/var/run/docker.sock
