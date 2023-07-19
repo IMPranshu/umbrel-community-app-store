@@ -2,7 +2,7 @@ manifestVersion: 1
 id: imp-flowise
 category: automation
 name: Flowise
-icon: https://github.com/IMPranshu/svg-logo/blob/main/flowise.svg
+icon: https://svgshare.com/i/vVb.svg
 version: "1.2.13"
 tagline: Build LLMs Apps Easily
 description: >-
