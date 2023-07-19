@@ -1,0 +1,24 @@
+manifestVersion: 1
+id: imp-dash
+category: gaming
+name: Dash
+icon: https://svgshare.com/i/vWe.svg
+version: "1"
+tagline: Play the Retro Dash game on your Umbrel!
+description: >-
+  A free and fun racing game inspired by the all-time famous & memorable 8-bit Road Fighter from the '90s.
+developer: Pranshu Agrawal
+website: https://github.com/IMPranshu
+dependencies: []
+repo: https://github.com/IMPranshu/dash
+support: https://github.com/IMPranshu/dash
+port: 8612
+gallery:
+  - https://i.imgur.com/Llm2Kre.png
+  - https://i.imgur.com/pxgbYiU.png
+path: ""
+defaultUsername: ""
+defaultPassword: ""
+torOnly: false
+submitter: Pranshu Agrawal
+submission:
