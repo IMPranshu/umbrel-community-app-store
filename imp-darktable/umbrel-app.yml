@@ -2,6 +2,7 @@ manifestVersion: 1
 id: imp-darktable
 category: files
 name: Darktable
+icon: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Darktable_icon.svg/256px-Darktable_icon.svg.png
 version: "4.0.1"
 tagline: open source photography workflow application and raw developer
 description: >-
@@ -23,9 +24,7 @@ repo: https://github.com/darktable-org
 support: https://github.com/darktable-org/dtdocs
 port: 3222
 gallery:
-  - 1.jpg
-  - 2.jpg
-  - 3.jpg
+  - https://github.com/getumbrel/umbrel-apps/assets/43396684/6ea90e31-9888-48f6-854a-904bfda1beb2
 path: ""
 deterministicPassword: false
 torOnly: false
