@@ -2,6 +2,7 @@ manifestVersion: 1
 id: imp-mylar3
 category: Media
 name: MyLar3
+icon: https://svgshare.com/i/neP.svg
 version: "0.6.9"
 tagline: An automated Comic Book (cbr/cbz) downloader program for use with NZB and torrents.
 description: >-
@@ -77,9 +78,10 @@ repo: https://github.com/mylar3/mylar3
 support: https://github.com/mylar3/mylar3/wiki
 port: 8880
 gallery:
-  - 1.jpg
-  - 2.jpg
-  - 3.jpg
+  - https://user-images.githubusercontent.com/43396684/197815977-53be734c-eec6-4d6f-8ae3-997a2b622861.png
+  - https://user-images.githubusercontent.com/43396684/197815989-4d06049f-e10b-4048-92c0-d50c966e4614.png
+  - https://user-images.githubusercontent.com/43396684/197815999-90defd63-6752-4a77-9484-3e1950daceee.png
+  - https://user-images.githubusercontent.com/43396684/197815994-ef23a1bd-ef73-4151-a0c0-9736ea315764.png
 path: "/pullist"
 defaultUsername: ""
 defaultPassword: ""
