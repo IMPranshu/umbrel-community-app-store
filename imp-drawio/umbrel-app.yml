@@ -2,6 +2,7 @@ manifestVersion: 1
 id: imp-drawio
 category: Development
 name: Drawio
+icon: https://svgshare.com/i/vVS.svg
 version: "20.5.2"
 tagline: Security-first diagramming for teams
 description: >-
@@ -26,9 +27,12 @@ repo: https://github.com/jgraph/drawio
 support: https://github.com/jgraph/drawio/wiki
 port: 8182
 gallery:
-  - 1.jpg
-  - 2.jpg
-  - 3.jpg
+  - https://user-images.githubusercontent.com/43396684/201180454-c691374c-a886-405d-b521-a1baf50cf01c.png
+  - https://user-images.githubusercontent.com/43396684/201180417-6265d12b-2c80-4e78-af09-435eb0193231.png
+  - https://user-images.githubusercontent.com/43396684/201180410-76ffab9e-cf99-4006-8b97-204b5f8388ac.png
+  - https://user-images.githubusercontent.com/43396684/201180324-4afb32f7-657a-4337-9499-4025253051b1.gif
+  - https://user-images.githubusercontent.com/43396684/201180331-b4d7729f-6117-48e3-8ba2-f9fcf146b86a.gif
+  - https://user-images.githubusercontent.com/43396684/201180343-ff29d1d0-718b-4eec-92b7-5ed77f5a05bf.png
 path: ""
 defaultUsername: ""
 defaultPassword: ""
