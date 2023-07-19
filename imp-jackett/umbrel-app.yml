@@ -2,6 +2,7 @@ manifestVersion: 1
 id: imp-jackett
 category: media
 name: Jackett
+icon: https://raw.githubusercontent.com/IMPranshu/svg-logo/main/jackett.svg
 version: "0.21.372"
 tagline: API Support for your favorite torrent trackers
 description: >-
@@ -14,9 +15,9 @@ repo: https://github.com/Jackett/Jackett/
 support: https://github.com/Jackett/Jackett/
 port: 5551
 gallery:
-  - 1.jpg
-  - 2.jpg
-  - 3.jpg
+  - https://github.com/getumbrel/umbrel-apps/assets/43396684/01dd6c27-9ae8-49cb-97d5-842591f38a67
+  - https://github.com/getumbrel/umbrel-apps/assets/43396684/23537f2a-8b11-46ec-a779-22b4a25d3e4e
+  - https://github.com/getumbrel/umbrel-apps/assets/43396684/ead7f9f2-6c4d-46c3-9325-754dbd3886a5
 path: ""
 permissions:
   - STORAGE_DOWNLOADS
