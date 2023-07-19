@@ -2,6 +2,7 @@ manifestVersion: 1
 id: imp-freshrss
 category: networking
 name: freshrss
+icon: https://raw.githubusercontent.com/IMPranshu/svg-logo/main/logo.svg
 version: "1.21.0"
 tagline: A free, self-hostable aggregator for rss feeds.
 description: >-
@@ -63,9 +64,10 @@ repo: https://github.com/FreshRSS/FreshRSS
 support: https://github.com/FreshRSS/FreshRSS
 port: 3432
 gallery:
-  - 1.jpg
-  - 2.jpg
-  - 3.jpg
+  - https://github.com/getumbrel/umbrel-apps/assets/43396684/fb6a5be8-a44a-404c-ac93-ea280236352f
+  - https://github.com/getumbrel/umbrel-apps/assets/43396684/b132d270-3a12-426f-bbc7-e2dfd5b80d86
+  - https://github.com/getumbrel/umbrel-apps/assets/43396684/8e229d50-b6d4-419c-9ca0-18d4a33fd4f7
+  - https://github.com/getumbrel/umbrel-apps/assets/43396684/f62240fe-449c-4518-9967-24d008f09d2f
 path: ""
 deterministicPassword: false
 torOnly: false
