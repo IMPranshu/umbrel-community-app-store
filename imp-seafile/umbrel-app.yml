@@ -2,6 +2,7 @@ manifestVersion: 1
 id: imp-seafile
 category: Files
 name: SeaFile
+icon: https://svgshare.com/i/vV3.svg
 version: "9.0.9"
 tagline: High performance file syncing and sharing
 description: >-
@@ -91,9 +92,11 @@ repo: https://github.com/haiwen/seafile
 support: https://manual.seafile.com/
 port: 8920
 gallery:
-  - 1.jpg
-  - 2.jpg
-  - 3.jpg
+  - https://user-images.githubusercontent.com/43396684/201626008-d8235535-ac1c-4149-8dae-fdd22a07adb9.png
+  - https://user-images.githubusercontent.com/43396684/201626052-cf0130a5-3e69-4b83-b8bf-e8c19b8eacca.png
+  - https://user-images.githubusercontent.com/43396684/201626061-c0111b41-72df-4470-bc15-089c15d009f9.png
+  - https://user-images.githubusercontent.com/43396684/201626070-1a271535-6c79-40e5-ad93-e2f5050e5bd3.png
+  - https://user-images.githubusercontent.com/43396684/201626075-4ec30666-2a3a-44b0-ae35-50dc26a4d680.png
 path: ""
 deterministicPassword: false
 defaultUsername: "me@example.com"
