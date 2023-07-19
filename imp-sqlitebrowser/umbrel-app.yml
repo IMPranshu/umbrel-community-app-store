@@ -2,6 +2,7 @@ manifestVersion: 1
 id: imp-sqlitebrowser
 category: Development
 name: Sqlitebrowser
+icon: https://svgshare.com/i/vVK.svg
 version: "3.12.2"
 tagline: Open Source cross platform SQLite GUI
 description: >-
@@ -65,9 +66,10 @@ repo: https://github.com/sqlitebrowser/sqlitebrowser
 support: https://github.com/sqlitebrowser/sqlitebrowser/wiki
 port: 3123
 gallery:
-  - 1.jpg
-  - 2.jpg
-  - 3.jpg
+  - https://user-images.githubusercontent.com/43396684/201181297-dc7d8422-ced5-4741-b985-7e0b792ea510.png
+  - https://user-images.githubusercontent.com/43396684/201182401-82dfb195-f0bb-4d8e-bb2f-facc38834f79.png
+  - https://user-images.githubusercontent.com/43396684/201182409-4c6d147a-e383-4476-af54-93df57c6ae81.png
+  - https://user-images.githubusercontent.com/43396684/201182418-009d398a-9d63-4eb4-8682-2b3f39673c7c.png
 path: ""
 defaultUsername: ""
 defaultPassword: ""
