@@ -2,6 +2,7 @@ manifestVersion: 1
 id: imp-ackee
 category: networking
 name: Ackee
+icon: https://raw.githubusercontent.com/IMPranshu/svg-logo/main/ackee.svg
 version: "3.4.2"
 tagline: Track without being tracked
 description: >-
@@ -34,9 +35,8 @@ repo: https://github.com/electerious/Ackee
 support: https://docs.ackee.electerious.com
 port: 3023
 gallery:
-  - 1.jpg
-  - 2.jpg
-  - 3.jpg
+  - https://github.com/getumbrel/umbrel-apps/assets/43396684/f64afd15-dc11-4117-b9b2-185468a144d7
+  - https://github.com/getumbrel/umbrel-apps/assets/43396684/6f8db28d-5741-42da-967a-fbbba771de61
 path: ""
 submitter: Pranshu Agrawal
 submission:
