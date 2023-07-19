@@ -2,6 +2,7 @@ manifestVersion: 1
 id: imp-synclounge
 category: Media
 name: SyncLounge
+icon: https://svgshare.com/i/vUx.svg
 version: "5.2.4"
 tagline: Enjoy Plex with your friends. In Sync. Together.
 description: >-
@@ -80,10 +81,9 @@ repo: https://github.com/synclounge/synclounge
 support: https://docs.synclounge.tv/
 port: 8188
 gallery:
-  - 1.jpg
-  - 2.jpg
-  - 3.jpg
-  - 4.jpg
+  - https://user-images.githubusercontent.com/43396684/200049891-36702990-a7a6-4fe7-88ee-f0df78f68128.png
+  - https://user-images.githubusercontent.com/43396684/200049896-0d66f532-a07b-473d-8417-893d4b93ba31.png
+  - https://user-images.githubusercontent.com/43396684/200049901-81b2eb44-f1b5-4c3b-926a-434cdb4f82c5.png
 path: ""
 defaultPassword: ""
 submitter: Pranshu Agrawal
