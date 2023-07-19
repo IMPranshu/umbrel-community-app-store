@@ -2,6 +2,7 @@ manifestVersion: 1
 id: imp-vikunja
 category: files
 name: vikunja
+icon: https://raw.githubusercontent.com/IMPranshu/svg-logo/main/vikunja-logo.svg
 version: "0.21"
 tagline: The open-source, self-hostable to-do app
 description: >-
@@ -33,9 +34,13 @@ repo: https://kolaente.dev/vikunja/
 support: https://vikunja.io/docs/
 port: 4523
 gallery:
-  - 1.jpg
-  - 2.jpg
-  - 3.jpg
+  - https://github.com/getumbrel/umbrel-apps/assets/43396684/999acf04-2e90-47d3-a1d9-2e94bbd6030d
+  - https://github.com/getumbrel/umbrel-apps/assets/43396684/61588cf6-9735-470f-8abf-159366ceb90f
+  - https://github.com/getumbrel/umbrel-apps/assets/43396684/4eed7f4f-3a0b-4884-b106-69bd2a469685
+  - https://github.com/getumbrel/umbrel-apps/assets/43396684/c1051c6a-0f94-4c5f-85b6-0ea1183a944f
+  - https://github.com/getumbrel/umbrel-apps/assets/43396684/20d3751d-d97f-420a-9f7e-1572256817f9
+  - https://github.com/getumbrel/umbrel-apps/assets/43396684/0216e7ce-dce1-4d04-9418-704d2b31c524
+  - https://github.com/getumbrel/umbrel-apps/assets/43396684/60bff898-c944-466e-aea4-771ebd10861d
 path: ""
 defaultUsername: ""
 defaultPassword: ""
