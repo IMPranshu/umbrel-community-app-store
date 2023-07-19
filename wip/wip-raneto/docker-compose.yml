@@ -1,0 +1,14 @@
+version: "3.7"
+
+services:
+  app_proxy:
+    environment:
+      APP_HOST: imp-raneto
+      APP_PORT: 3000
+
+  server:
+    image: lscr.io/linuxserver/raneto:0.17.2
+    container_name: raneto
+    volumes:
+      - ${APP_DATA_DIR}/data/config:/config
+    restart: on-failure

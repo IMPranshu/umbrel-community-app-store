@@ -1,0 +1,10 @@
+version: "3.7"
+
+services:
+  rsnapshot:
+    image: lscr.io/linuxserver/rsnapshot:latest
+    container_name: rsnapshot
+    volumes:
+      - ${APP_DATA_DIR}/data/config:/config
+    restart: on-failure
+

@@ -1,0 +1,34 @@
+version: "3.7"
+
+services:
+
+  server:
+    container_name: snipe-it
+    image: lscr.io/linuxserver/snipe-it:6.0.13
+    environment:
+      - PUID=1000
+      - PGID=1000
+      - MYSQL_DATABASE=db
+      - MYSQL_USER=admin
+      - MYSQL_PASSWORD=password
+    restart: on-failure
+    volumes:
+      - ${APP_DATA_DIR}/data/config:/config
+    links:
+      - db
+
+  db:
+    image: mariadb:10.5.12@sha256:f0e9a95a715f5f1233f0513b6ccc83e2d5692cd787bc9425e11cef667cf086ec
+    container_name: snipe-it-db
+    volumes:
+      - ./snipe-it-db:/var/lib/mysql
+    environment:
+      - PUID=1000
+      - PGID=1000
+      - MYSQL_ROOT_PASSWORD=password
+      - MYSQL_DATABASE=db
+      - MYSQL_USER=admin
+      - MYSQL_PASSWORD=password
+    restart: on-failure
+    ports:
+      - 8186:80
