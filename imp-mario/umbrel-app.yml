@@ -1,6 +1,6 @@
 manifestVersion: 1
 id: imp-mario
-category: social
+category: games
 name: Mario
 icon: https://raw.githubusercontent.com/IMPranshu/svg-logo/main/Mario.svg
 version: "1"
