@@ -3,6 +3,7 @@ id: imp-quant-ux
 category: Development
 name: Quant UX
 version: "1.4.0"
+icon: https://raw.githubusercontent.com/IMPranshu/svg-logo/main/quantux.svg
 tagline: Prototype, Test and Learn
 description: >-
   Quant UX is a research, usability and prototyping tool to quickly test your designs and get data driven insights.
@@ -37,9 +38,11 @@ repo: https://github.com/KlausSchaefers/quant-ux
 support: https://www.quant-ux.com/#/help.html
 port: 8095
 gallery:
-  - 1.jpg
-  - 2.jpg
-  - 3.jpg
+  - https://user-images.githubusercontent.com/43396684/201192156-08d4ba45-a698-4d9b-8920-a33baae664ca.png
+  - https://user-images.githubusercontent.com/43396684/201192170-942507fb-9301-48b0-b1a0-34f048ef9fae.png
+  - https://user-images.githubusercontent.com/43396684/201192184-27bbc0d6-dfa4-4b1d-983c-d430fa8bf0e3.png
+  - https://user-images.githubusercontent.com/43396684/201192193-b590302f-aa67-4c12-9f61-5c4fde1ab9f5.png
+  - https://user-images.githubusercontent.com/43396684/201192207-6badbcc2-8b67-456b-86e7-aa6b23999332.png
 path: ""
 defaultUsername: ""
 defaultPassword: ""
