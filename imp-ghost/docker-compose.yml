@@ -10,12 +10,13 @@ services:
     image: ghost:5.22.9@sha256:2317f68dfe9b206adbb1c7f332745d870c56f1de1d756b72bf6da205d43c37e0
     restart: on-failure
     environment:
+      DOMAIN: ${DEVICE_DOMAIN_NAME}
       database__client: mysql
       database__connection__host: db
       database__connection__user: root
       database__connection__password: ghost
       database__connection__database: ghost
-      url: http://umbrel.local
+      url: DOMAIN
 
   db:
     image: mysql:8.0
