@@ -2,6 +2,7 @@ manifestVersion: 1
 id: imp-appsmith
 category: Files
 name: Appsmith
+icon: https://svgshare.com/i/vV8.svg
 version: "0.1.2"
 tagline: Open-source, low-code platform to Build, ship, and maintain internal tools
 description: >-
@@ -38,9 +39,10 @@ repo: https://github.com/appsmithorg/appsmith
 support: https://docs.appsmith.com/
 port: 1180
 gallery:
-  - 1.jpg
-  - 2.jpg
-  - 3.jpg
+  - https://user-images.githubusercontent.com/43396684/201178647-d7f382fe-2f65-4509-8970-f2ce33d536f1.png
+  - https://user-images.githubusercontent.com/43396684/201178660-d502d313-5449-468f-9cb5-30174a6a3e81.png
+  - https://user-images.githubusercontent.com/43396684/201178669-8b982aed-1162-4d39-9ee7-cfcfe69738b8.png
+  - https://user-images.githubusercontent.com/43396684/201178676-df37a551-b56f-4c2e-a8e1-259137a03eb8.png
 path: ""
 deterministicPassword: ""
 defaultUsername: ""
