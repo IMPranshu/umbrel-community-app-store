@@ -31,9 +31,10 @@ repo: https://github.com/FlowiseAI/Flowise
 support: https://docs.flowiseai.com/
 port: 5679
 gallery:
-  - 1.jpg
-  - 2.jpg
-  - 3.jpg
+  - https://github.com/getumbrel/umbrel-apps/assets/43396684/9a9021b5-56df-453b-a16c-5f9f7f8a1348
+  - https://github.com/getumbrel/umbrel-apps/assets/43396684/d5e1543a-d520-4f6e-9c1b-d6fdf0df45a2
+  - https://github.com/getumbrel/umbrel-apps/assets/43396684/818991c3-6fcd-492f-a54c-3991ba102e9f
+  - https://github.com/getumbrel/umbrel-apps/assets/43396684/0af1b281-d9e1-49a1-bb3f-d94a32621467
 path: ""
 defaultUsername: ""
 defaultPassword: ""
