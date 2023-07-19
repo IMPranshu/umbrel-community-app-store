@@ -2,6 +2,7 @@ manifestVersion: 1
 id: imp-duplicati
 category: Development
 name: Duplicati
+icon: https://svgshare.com/i/vWB.svg
 version: "2.0.6"
 tagline: Store securely encrypted backups on cloud storage services!
 description: >-
@@ -20,9 +21,11 @@ repo: https://github.com/duplicati/duplicati
 support: https://forum.duplicati.com/
 port: 8243
 gallery:
-  - 1.jpg
-  - 2.jpg
-  - 3.jpg
+  - https://user-images.githubusercontent.com/43396684/201286512-3200c01e-8704-4a19-933a-6c0791292573.png
+  - https://user-images.githubusercontent.com/43396684/201286504-72a476d8-864e-4051-9a80-3f8789eb33a1.png
+  - https://user-images.githubusercontent.com/43396684/201286509-3f7f8888-ed29-476e-afb9-bcaf8921b1b9.png
+  - https://user-images.githubusercontent.com/43396684/201286597-c49fdcbc-8ff6-4599-bbb9-ebbd9ed0883f.jpg
+  - https://user-images.githubusercontent.com/43396684/201286608-e18fc96e-27d3-4403-9a9d-1f1faf9f62b7.jpg
 path: ""
 defaultUsername: ""
 defaultPassword: ""
