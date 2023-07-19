@@ -2,6 +2,7 @@ manifestVersion: 1
 id: imp-piwigo
 category: Media
 name: Piwigo
+icon: https://svgshare.com/i/vWW.svg
 version: "13.1.0"
 tagline: Perfect Replacement for Google Photos
 description: >-
@@ -80,9 +81,12 @@ repo: https://github.com/Piwigo/Piwigo
 support: https://github.com/Piwigo/Piwigo/wiki
 port: 8334
 gallery:
-  - 1.jpg
-  - 2.jpg
-  - 3.jpg
+  - https://user-images.githubusercontent.com/43396684/197939985-7fb185c2-8d40-44bf-875e-5dc8567c0b50.png
+  - https://user-images.githubusercontent.com/43396684/197940640-982327cf-0aa1-4ece-ba7c-aa0d0d6c7cdd.png
+  - https://user-images.githubusercontent.com/43396684/197940644-d688dc90-1850-41de-aa96-2999463c2e31.png
+  - https://user-images.githubusercontent.com/43396684/197940648-e16d3bed-48f3-4c4d-8812-18612afcd8cb.png
+  - https://user-images.githubusercontent.com/43396684/197940650-8c498268-d2ac-4fd7-aea2-f55770137e3e.png
+  - https://user-images.githubusercontent.com/43396684/197940651-1108ecd4-6b44-494f-851b-71c66a3c4db8.png
 path: ""
 defaultUsername: "piwigo"
 defaultPassword: "piwigo"
