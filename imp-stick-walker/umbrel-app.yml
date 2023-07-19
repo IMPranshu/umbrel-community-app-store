@@ -1,0 +1,25 @@
+manifestVersion: 1
+id: imp-stick-walker
+category: gaming
+name: Stick Walker
+icon: https://svgshare.com/i/vXD.svg
+version: "1"
+tagline: Play the famous Stick Hero games on your Umbrel!
+description: >-
+  A free and fun stick hero game inspired by the OG stick man games.
+developer: Pranshu Agrawal
+website: https://github.com/IMPranshu
+dependencies: []
+repo: https://github.com/IMPranshu/stick-walker
+support: https://github.com/IMPranshu/stick-walker
+port: 8613
+gallery:
+  - https://i.imgur.com/MQwnv4c.png
+  - https://i.imgur.com/XMYqtvF.png
+  - https://i.imgur.com/8uEQ2P1.png
+path: ""
+defaultUsername: ""
+defaultPassword: ""
+torOnly: false
+submitter: Pranshu Agrawal
+submission:
