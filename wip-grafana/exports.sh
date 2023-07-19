@@ -1,4 +1,0 @@
-export APP_GRAFANA_PORT="3000"
-export APP_GRAFANA_IP="grafana"
-export SPEEDTEST_HOST=local
-export SPEEDTEST_INTERVAL=6
