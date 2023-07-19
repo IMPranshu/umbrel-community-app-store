@@ -2,6 +2,7 @@ manifestVersion: 1
 id: imp-dolibarr
 category: Finance
 name: Dolibarr
+icon: https://raw.githubusercontent.com/IMPranshu/svg-logo/main/dolibarr.svg
 version: "16"
 tagline: Opensource ERP & CRM Software suite
 description: >-
@@ -221,9 +222,11 @@ repo: https://github.com/dolibarr/dolibarr
 support: https://wiki.dolibarr.org/
 port: 2810
 gallery:
-  - 1.jpg
-  - 2.jpg
-  - 3.jpg
+  - https://user-images.githubusercontent.com/43396684/202139467-787cc254-0855-4c15-8351-0e6324e209e1.png
+  - https://user-images.githubusercontent.com/43396684/202139479-eddbfd0d-ef1e-412b-9be4-9bfbd8cead13.png
+  - https://user-images.githubusercontent.com/43396684/202139499-923e08ae-606b-48f4-8bf4-30442d0eb2b9.jpg
+  - https://user-images.githubusercontent.com/43396684/202139509-37cfd6c3-f2a6-44f0-a3df-98c0935556d6.png
+  - https://user-images.githubusercontent.com/43396684/202139511-3d10d60e-393b-454a-baff-7512ae1915fb.png
 path: ""
 defaultUsername: ""
 defaultPassword: ""
