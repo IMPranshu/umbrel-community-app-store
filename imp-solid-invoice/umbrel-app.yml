@@ -2,6 +2,7 @@ manifestVersion: 1
 id: imp-solidinvoice
 category: Finance
 name: SolidInvoice
+icon: https://svgshare.com/i/vUR.svg
 version: "2.1.1"
 tagline: Simple and elegant invoicing solution.
 description: >-
@@ -42,9 +43,13 @@ repo: https://github.com/SolidInvoice/SolidInvoice
 support: https://github.com/SolidInvoice/SolidInvoice
 port: 8333
 gallery:
-  - 1.jpg
-  - 2.jpg
-  - 3.jpg
+  - https://user-images.githubusercontent.com/43396684/201186943-6969a469-f273-40b3-aebb-8508675cd634.png
+  - https://user-images.githubusercontent.com/43396684/201187187-c71c9e88-38b8-4bd9-bc3a-eed8e778aea3.png
+  - https://user-images.githubusercontent.com/43396684/201187252-0f3ba3e8-6354-4299-9b82-b70965c67d37.png
+  - https://user-images.githubusercontent.com/43396684/201187263-17a5eb35-ff17-4db3-bd83-188de2ce4e85.png
+  - https://user-images.githubusercontent.com/43396684/201187432-9286686e-f871-4517-bba9-e5870dccc1ad.png
+  - https://user-images.githubusercontent.com/43396684/201187441-065828cb-4cfc-463d-a034-daff145021b3.png
+  - https://user-images.githubusercontent.com/43396684/201187447-9df73602-1359-4a0e-9833-9e26f8cc7857.png
 path: ""
 defaultUsername: ""
 defaultPassword: ""
