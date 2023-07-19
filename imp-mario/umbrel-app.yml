@@ -2,6 +2,7 @@ manifestVersion: 1
 id: imp-mario
 category: social
 name: Mario
+icon: https://raw.githubusercontent.com/IMPranshu/svg-logo/main/Mario.svg
 version: "1"
 tagline: Play the Retro Mario game on your Umbrel!
 description: >-
@@ -16,9 +17,9 @@ repo: https://github.com/IMPranshu/mario-in-web/tree/main/webapp
 support: https://github.com/IMPranshu/mario-in-web/tree/main/webapp
 port: 8600
 gallery:
-  - 1.jpg
-  - 2.jpg
-  - 3.jpg
+  - https://github.com/getumbrel/umbrel-apps/assets/43396684/fac0127f-6f07-4b5d-afdc-3dea4ff5968b
+  - https://github.com/getumbrel/umbrel-apps/assets/43396684/ffa32671-8885-4b51-b6b1-4106cb838704
+  - https://github.com/getumbrel/umbrel-apps/assets/43396684/bda01cbf-48c2-47f7-af33-ca35b4a7dcae
 path: ""
 defaultUsername: ""
 defaultPassword: ""
