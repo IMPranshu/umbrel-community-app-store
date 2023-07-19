@@ -1,7 +1,8 @@
 manifestVersion: 1
 id: imp-tautulli
 category: Media
-name: tautulli
+name: Tautulli
+icon: https://svgshare.com/i/vVE.svg
 version: "247"
 tagline: Monitor your Plex Media Server
 description: >-
@@ -54,9 +55,10 @@ repo: https://github.com/Tautulli/Tautulli
 support: https://github.com/Tautulli/Tautulli/wiki
 port: 8212
 gallery:
-  - 1.jpg
-  - 2.jpg
-  - 3.jpg
+  - https://user-images.githubusercontent.com/43396684/202248001-fd71512a-e5ad-4205-8c66-46587d000091.png
+  - https://user-images.githubusercontent.com/43396684/202247965-a0ba89cc-58b9-4317-b414-6561e310068e.png
+  - https://user-images.githubusercontent.com/43396684/202247971-d97746b5-9d49-4e36-8eae-f4ab68f71eb8.png
+  - https://user-images.githubusercontent.com/43396684/202248055-554464ed-f9c5-408f-a96e-23e64b6e65aa.png
 path: ""
 defaultUsername: ""
 defaultPassword: ""
