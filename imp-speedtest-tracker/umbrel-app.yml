@@ -2,6 +2,7 @@ manifestVersion: 1
 id: imp-speedtest-tracker
 category: Development
 name: SpeedTest
+icon: https://svgshare.com/i/vWA.svg
 version: "1.12.2"
 tagline: Automatically run an Internet speedtest every hour
 description: >-
@@ -40,9 +41,9 @@ repo: https://github.com/henrywhitaker3/Speedtest-Tracker
 support: https://github.com/henrywhitaker3/Speedtest-Tracker
 port: 8765
 gallery:
-  - 1.jpg
-  - 2.jpg
-  - 3.jpg
+  - https://user-images.githubusercontent.com/43396684/201543642-58a470c7-fdbd-409c-ae74-56b0c2c468f9.png
+  - https://user-images.githubusercontent.com/43396684/201543646-afac44b3-801b-459e-8d32-8ac454c038ac.png
+  - https://user-images.githubusercontent.com/43396684/201543652-9d00f7e1-d44c-42e5-b065-497cd07d48fe.png
 path: ""
 defaultUsername: ""
 defaultPassword: ""
