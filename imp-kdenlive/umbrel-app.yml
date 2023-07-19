@@ -2,6 +2,7 @@ manifestVersion: 1
 id: imp-kdenlive
 category: Media
 name: KdenLive
+icon: https://svgshare.com/i/ndj.svg
 version: "421.12.3"
 tagline: Free and open source video editor
 description: >-
@@ -34,9 +35,11 @@ repo: https://github.com/KDE/kdenlive
 support: https://forum.kde.org/viewforum.php?f=262
 port: 3003
 gallery:
-  - 1.jpg
-  - 2.jpg
-  - 3.jpg
+  - https://user-images.githubusercontent.com/43396684/197713786-fe76f247-7d49-4f75-bef9-1fd7ce874327.png
+  - https://user-images.githubusercontent.com/43396684/197713800-c9996bd3-a528-41d4-acd7-b0a4eca6893c.png
+  - https://user-images.githubusercontent.com/43396684/197713804-debd071d-21af-4b54-9a32-929be27a3382.png
+  - https://user-images.githubusercontent.com/43396684/197713806-4c849c91-b0c9-419b-90c9-dc361525c9a4.png
+  - https://user-images.githubusercontent.com/43396684/197713821-c6318e92-81a7-4413-8284-98d04e373792.png
 path: ""
 defaultUsername: ""
 defaultPassword: ""
