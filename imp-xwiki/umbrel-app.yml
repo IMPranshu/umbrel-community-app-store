@@ -2,6 +2,7 @@ manifestVersion: 1
 id: imp-xwiki
 category: Development
 name: XWiki
+icon: https://svgshare.com/i/vTx.svg
 version: "13.10.10"
 tagline: Opensource alternative to Confluence and MediaWiki
 description: >-
@@ -53,9 +54,9 @@ repo: https://github.com/xwiki
 support: https://www.xwiki.org/xwiki/bin/view/Documentation/
 port: 8186
 gallery:
-  - 1.jpg
-  - 2.jpg
-  - 3.jpg
+  - https://user-images.githubusercontent.com/43396684/202018246-545672d1-5b81-4f4d-ae9c-67417049225f.png
+  - https://user-images.githubusercontent.com/43396684/202018281-d3d24e67-aac4-41b4-8a45-c53837fb28c4.png
+  - https://user-images.githubusercontent.com/43396684/202018286-c5c4f272-eaa0-43be-a83e-0d679e442e9f.png
 path: ""
 defaultUsername: ""
 defaultPassword: ""
