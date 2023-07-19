@@ -2,6 +2,7 @@ manifestVersion: 1
 id: imp-ghost
 category: Development
 name: Ghost
+icon: https://svgshare.com/i/vWV.svg
 version: "5.22.9"
 tagline: Turn your audience into a business
 description: >-
@@ -41,9 +42,11 @@ repo: https://github.com/tryghost/ghost/
 support: https://ghost.org/docs/
 port: 8551
 gallery:
-  - 1.jpg
-  - 2.jpg
-  - 3.jpg
+  - https://user-images.githubusercontent.com/43396684/201184984-36445e85-978e-44d9-97c7-a9779fd2b6c4.png
+  - https://user-images.githubusercontent.com/43396684/201184974-da016455-814f-40df-a144-000380bc6062.png
+  - https://user-images.githubusercontent.com/43396684/201184958-fdc7fbbc-0fcb-4281-b7fa-9136a7494347.png
+  - https://user-images.githubusercontent.com/43396684/201184920-c42a6b9c-bcab-4a8a-bebc-eda643275829.png
+  - https://user-images.githubusercontent.com/43396684/201184937-440092f0-b2b4-4e76-89cb-bb11ebc64c69.png
 path: /ghost
 defaultUsername: ""
 defaultPassword: ""
