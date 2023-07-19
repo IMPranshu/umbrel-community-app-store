@@ -2,6 +2,7 @@ manifestVersion: 1
 id: imp-remotely
 category: Networking
 name: Remotely
+icon: https://svgshare.com/i/vVu.svg
 version: "1300"
 tagline: Opensource alternative to ANYDESK and TEAMVIEWER
 description: >-
@@ -19,9 +20,11 @@ repo: https://github.com/lucent-sea/remotely
 support: https://www.reddit.com/r/remotely_app/
 port: 5210
 gallery:
-  - 1.jpg
-  - 2.jpg
-  - 3.jpg
+  - https://user-images.githubusercontent.com/43396684/202016539-16f8ece5-e7d9-4c1f-b1f9-64ff0be6d2b0.png
+  - https://user-images.githubusercontent.com/43396684/202016542-43efe58c-634d-420a-88d8-dbad99b9ce4d.png
+  - https://user-images.githubusercontent.com/43396684/202016537-0ea2862d-7425-4db6-8abe-eae67a129003.png
+  - https://user-images.githubusercontent.com/43396684/202016532-1d125a9f-4ea4-4895-b2b5-dd162c121258.png
+  - https://user-images.githubusercontent.com/43396684/202016518-93951a5b-acf8-4485-9fb2-6afcef857e93.png
 path: ""
 defaultUsername: ""
 defaultPassword: ""
