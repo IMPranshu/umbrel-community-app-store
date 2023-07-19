@@ -2,6 +2,7 @@ manifestVersion: 1
 id: imp-wbo
 category: Development
 name: WBO
+icon: https://raw.githubusercontent.com/IMPranshu/svg-logo/main/wbo.svg
 version: "1.19.1"
 tagline: Online whiteboard WBO!
 description: >-
@@ -17,9 +18,10 @@ repo: https://github.com/lovasoa/whitebophir
 support: https://github.com/lovasoa/whitebophir/wiki
 port: 5111
 gallery:
-  - 1.jpg
-  - 2.jpg
-  - 3.jpg
+  - https://user-images.githubusercontent.com/43396684/201188774-d416279f-0013-46ce-a02b-9ef11f437060.png
+  - https://user-images.githubusercontent.com/43396684/201188793-a631ab9f-2c98-429d-b822-6635fbae154e.png
+  - https://user-images.githubusercontent.com/43396684/201188948-d922d951-8d9e-4ed4-a852-74ca9cb9ffec.png
+  - https://user-images.githubusercontent.com/43396684/201188979-e0d09780-7cbe-4811-872e-8ba5dc4c4db5.png
 path: ""
 defaultUsername: ""
 defaultPassword: ""
